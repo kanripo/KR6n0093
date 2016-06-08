@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:58:14.274343
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:28
 #+TITLE: 大乘法界無差別論疏領要鈔
 #+PROPERTY: CBETA_ID X46n0787
 #+PROPERTY: ID KR6n0093
